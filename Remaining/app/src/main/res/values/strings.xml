@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remaining</string>
+    <string name="value_a">Введите значение \"A\"</string>
+    <string name="value_b">Введите значение \"B\"</string>
+    <string name="value_c">Введите значение \"C\"</string>
+    <string name="result">Вычислить</string>
+    <string name="input_error">Поле должно быть заполнено</string>
+</resources>

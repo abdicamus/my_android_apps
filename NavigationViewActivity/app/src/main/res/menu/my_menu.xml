@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Category 1">
+        <menu>
+            <item android:id="@+id/item_1" android:title="Item 1"/>
+            <item android:id="@+id/item_2" android:title="Item 2"/>
+            <item android:id="@+id/item_3" android:title="Item 3"/>
+            <item android:id="@+id/item_4" android:title="Item 4"/>
+        </menu>
+    </item>
+
+    <item android:title="Category 2" >
+        <menu>
+            <item android:id="@+id/item_11" android:title="Item 1"/>
+            <item android:id="@+id/item_22" android:title="Item 2"/>
+            <item android:id="@+id/item_33" android:title="Item 3"/>
+            <item android:id="@+id/item_44" android:title="Item 4"/>
+        </menu>
+    </item>
+
+</menu>

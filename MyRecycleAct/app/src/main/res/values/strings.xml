@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyRecycleAct</string>
+    <string-array name="animals">
+        <item>Cat</item>
+        <item>Cow</item>
+        <item>Dog</item>
+        <item>Duck</item>
+        <item>Lion</item>
+        <item>Panda</item>
+    </string-array>
+</resources>
